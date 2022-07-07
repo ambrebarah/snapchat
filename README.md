@@ -28,15 +28,12 @@ Start your application with the following command:
 ```bash
   expo start
 ```
-## Authors 
+## Author
 
-- Brice BRETTINGER 
-- Raphael FROEHLY
 - Ambre BARAH
 ## Feedback
 
 If you have any feedback, please reach out to us at:
-- brice.brettinger@epitech.eu/
-- raphael.froehly@epitech.eu/
+
 - ambre.barah@epitech.eu/
 
