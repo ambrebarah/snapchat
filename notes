@@ -1,0 +1,7 @@
+on the next episode of game of shit !
+une fois connecté renvoyer un token a enregistrer en local storage 
+async storage a utiliser
+
+creer un nouveau state dans app 
+[authentificationToken, setauthentificationToken]
+dans la fonction login utiliser le setauthentificationToken
